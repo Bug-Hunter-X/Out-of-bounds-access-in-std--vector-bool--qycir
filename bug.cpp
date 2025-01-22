@@ -1,0 +1,1 @@
+std::vector<bool> vec; // ... some operations ... bool value = vec[index]; // potential bug if index is out of bounds
